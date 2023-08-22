@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://oam.wellsfargo.com/oam/access/receiver/*",
+    "inputSelector": "input#otp",
+    "emailSubject": "Your Wells Fargo Advanced Access code",
+    "codePrefix": "Advanced Access code:",
+    "codeLength": 6
+  },
+  {
+    "url": "https://play.zeedz.io/signin",
+    "inputPlaceholder": "input[placeholder='Enter magic code here']",
+    "emailSubject": "Sign-in to Zeedz",
+    "codePrefix": "Secret Magic Code",
+    "codeLength": 6
+  }
+]

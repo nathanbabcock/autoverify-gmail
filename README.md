@@ -10,4 +10,3 @@
   - Option 🅱️: using client-side JS in a Chrome extension (open Gmail tab, click on email, ...)
 - Autofill it into the website and submit the form
 - Delete or archive the email
-
